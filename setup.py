@@ -35,7 +35,6 @@ setup(
             "text.pyi",
             "transforms.pyi",
         ],
-        "numpy-stubs": ["__init__.pyi", "linalg.pyi", "ma.pyi", "random.pyi", "testing.pyi"],
         "pandas-stubs": ["__init__.pyi", "testing.pyi"],
         "pandas-stubs.core": [
             "__init__.pyi",
